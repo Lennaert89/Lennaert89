@@ -12,7 +12,9 @@
 - ⚡ Fun fact: I enjoy reading from tech blogs to epic fantasy series, my favourite food is pasta.
   
 ## 📜 Bio
-I am a Security Analyst at Zerocopter, where I identify and validate a variety of vulnerabilities and security issues on a daily basis. As a volunteer with the Dutch Institute for Vulnerability Disclosure (DIVD), I contribute to coordinated vulnerability disclosure. At DIVD, I head the CSIRT, ensuring that operations run smoothly and are well-structured. My work has involved notable cases, including high-profile incidents such as the July 2021 ransomware incident involving Kaseya. I have also discovered vulnerabilities for several large organizations, including the Dutch government.
+I am a Security Analyst at Zerocopter, where I identify and validate a variety of vulnerabilities and security issues on a daily basis. 
+
+Next to my day-job I'm a volunteer with the Dutch Institute for Vulnerability Disclosure (DIVD), I contribute to coordinated vulnerability disclosure. At DIVD, I head the CSIRT, ensuring that operations run smoothly and are well-structured. My work has involved notable cases, including high-profile incidents such as the July 2021 ransomware incident involving Kaseya. I have also discovered vulnerabilities for several large organizations, including the Dutch government.
 
 In addition to my work at DIVD, I am a founder and board member of [CSIRT.global](https://www.csirt.global), an organization dedicated to building an international community and improving global cybersecurity. I have been volunteering with [Hack in the Box (HITB)](https://conference.hitb.org/) since 2018, contributing to the success of their security conferences. This year, I am also volunteering to help organize the very first edition of [Orangecon](www.orangecon.nl), a new security conference in the Netherlands.
 
