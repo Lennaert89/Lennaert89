@@ -50,7 +50,7 @@ I infrequently publish content such as guides, tutorials, and blogs at: [dfirsec
 
 ## 🏆 Achievements
 - [The NPO (Dutch public broadcaster) Hall of Fame.](https://npo.nl/overnpo/privacy-en-security/responsible-disclosure)
-- [The Information Security Service for Dutch municipalities.](https://www.informatiebeveiligingsdienst.nl/responsible-disclosure/2022-coordinated-vulnerability-disclosure-hall-of-fame/)
+- [The Information Security Service for Dutch municipalities Hall of Fame.](https://www.informatiebeveiligingsdienst.nl/responsible-disclosure/2022-coordinated-vulnerability-disclosure-hall-of-fame/)
 - [Hacked the Dutch Government, multiple times.](https://twitter.com/lennaert89/status/1404012558986719232)
 
 ## 📫 How to reach me
