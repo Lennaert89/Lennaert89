@@ -46,6 +46,10 @@ I infrequently publish content such as guides, tutorials, and blogs at: [dfirsec
 [![GitHub](https://img.shields.io/badge/GitHub-TermsGenerator-1D1D1D?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/Lennaert89/TermsGenerator)
 - **TermsGenerator**: A Python script to easily generate a list of terms and definitions for a document by extracting specific terms and getting their definitions using customizable dictionaries in various formats.
 
+## 🏆 Achievements
+- [The NPO (Dutch public broadcaster) Hall of Fame](https://npo.nl/overnpo/privacy-en-security/responsible-disclosure)
+- [The Information Security Service for Dutch municipalities](https://www.informatiebeveiligingsdienst.nl/responsible-disclosure/2022-coordinated-vulnerability-disclosure-hall-of-fame/)
+
 ## 📫 How to reach me
 
 [![Website](https://img.shields.io/badge/Website-dfirsec.nl-1D1D1D?style=for-the-badge&logo=globe&logoColor=white&labelColor=black)](https://dfirsec.nl)
