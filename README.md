@@ -6,7 +6,7 @@
 ## 📘 Intro
 - 😄 Pronouns: **He/Him**
 - 🔭 I'm a Security Analyst at [Zerocopter](https://zerocopter.com), and volunteer with the [Dutch Institute for Vulnerability Disclosure (DIVD)](https://www.divd.nl).
-- 🌱 I’m currently learning Go and further develoing myself in Offensive Security.
+- 🌱 I’m currently learning Go and further developing myself in Offensive Security.
 - 👯 I’m looking to collaborate on anything InfoSec, Bug Bounty, Vulnerability Disclosure, Vulnerability Management, and Development projects.
 - 💬 Ask me about Security Analysis, Bug Bounty, Vulnerability Management, Vulnerability Disclosure, and Python Development.
 - ⚡ Fun fact: I enjoy reading from tech blogs to epic fantasy series, my favourite food is pasta.
